@@ -1,5 +1,5 @@
 
-<div align="justify">
+
 
 # Java FullStack Developer
 
@@ -104,4 +104,3 @@ Passionate about delivering high-quality, scalable solutions, improving operatio
 ---
 
 
-</div>
