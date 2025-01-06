@@ -1,4 +1,3 @@
-
 # Java FullStack Developer
 
 **Experienced Full Stack Developer with 7+ years of expertise** in building scalable, cloud-native solutions for web and enterprise applications. Proficient in **Java/JEE, Spring Boot, and Microservices Architecture**, delivering high-performance backend systems with secure RESTful APIs. Skilled in developing modern front-end interfaces using **Angular 11** and **ReactJS**, ensuring seamless user experiences.
@@ -12,11 +11,10 @@ Passionate about delivering high-quality, scalable solutions, improving operatio
 ---
 
 ## Education
-- **Master of Science, Computer Science** | University of Dayton at Ohio, USA  
-- **Bachelors in Technology, Computer Science** | Sathyabama Institute of Science & Technology, India  
+- **Master’s in computer science** | University of Dayton ,Ohio, USA  
+- **Bachelor’s in  computer science** | Sathyabama Institute of Science & Technology, India  
 
 ---
-
 # Technical Skills
 
 | **Category**                | **Skills & Tools**                                                                                                   |
@@ -37,11 +35,13 @@ Passionate about delivering high-quality, scalable solutions, improving operatio
 | **Web Services**            | RESTful APIs, SOAP, API Gateway, Swagger, GraphQL                                                                    |
 | **Other**                   | XML, JSON, Design Patterns, Linux/Unix                                                                               |
 
+
 ---
+
 
 ## Work Experience
 
-### Java Fullstack Developer @ Hertz
+### Java Fullstack Developer @ Hertz, USA
 - **Secure REST APIs**: Developed and deployed Spring Boot APIs for patient data, appointment scheduling, and EHR, ensuring **HIPAA compliance**.  
 - **AWS Cloud Infrastructure**: Built and managed microservices on **AWS ECS with Fargate**, achieving scalable, secure, and highly available services.  
 - **Frontend Development**: Implemented responsive user interfaces using **Angular** or **React**, creating dashboards for healthcare professionals and patients.  
