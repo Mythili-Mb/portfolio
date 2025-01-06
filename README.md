@@ -8,6 +8,6 @@ Java Fullstack developer @Hertz
 - project 1
 - project 2
 
-  ### Certifications
-  Aws cloud Practioner
-  AWS solution Architect- Associate
+### Certifications
+Aws cloud Practioner
+AWS solution Architect- Associate
