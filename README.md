@@ -1,25 +1,9 @@
 # Java FullStack Developer
 
-•	Over 7 years of experience in designing, developing, and deploying scalable web and enterprise applications using Java/JEE, Spring Boot, and AWS across various domains. Proficient in building cloud-native solutions and dynamic front-end interfaces with modern frameworks like Angular and ReactJS.
-•	Java Backend Development: Built scalable backend systems using Java, Spring Boot, and RESTful APIs, ensuring high performance and security.
-•	Front-End Development: Developed responsive UIs with Angular 11, ReactJS, and modern JavaScript frameworks, focusing on performance and usability.
-•	Microservices Architecture: Designed and deployed microservices with Spring Cloud, implementing service discovery, load balancing, and fault tolerance
-•	AWS Cloud Expertise: Deployed applications on AWS using EC2, S3, Lambda, RDS, and CloudFormation, optimizing scalability and cost-efficiency.
-•	Serverless Computing: Built serverless solutions with AWS Lambda and API Gateway, reducing infrastructure management and improving scalability.
-•	DevOps & CI/CD: Automated CI/CD pipelines using Jenkins, GitLab CI/CD, and AWS Code Pipeline to streamline deployments and ensure faster releases.
-•	Containerization & Orchestration: Deployed scalable applications using Docker and Kubernetes, managing clusters and creating Helm charts.
-•	Database Management: Designed and optimized relational databases (MySQL, PostgreSQL, Oracle) and NoSQL databases (MongoDB, Redis).
-•	Real-Time Data Processing: Integrated Apache Kafka and ActiveMQ to enable real-time communication and event-driven microservices.
-•	API Security & Authentication: Implemented OAuth 2.0, JWT, and Spring Security to secure APIs and protect sensitive data.
-•	Monitoring & Observability: Set up cloud monitoring using AWS CloudWatch, Prometheus, and Grafana to track performance and system health.
-•	Automated Testing & Quality Assurance: Ensured code quality with JUnit, Mockito, Selenium, and Postman for automated testing and API validation.
-•	Infrastructure as Code (IaC): Managed cloud infrastructure using AWS CloudFormation and Terraform, enabling reproducible and scalable deployments.
-•	Messaging Systems: Implemented ActiveMQ and Apache Kafka for asynchronous messaging between microservices.
-•	Technical Leadership: Led Agile teams, conducted sprint planning, and mentored team members in Java, AWS, and DevOps best practices.
-•	Version Control & Build Tools: Managed repositories using Git, GitHub, SVN, and automated builds with Maven and Gradle.
-•	Java 8 & Functional Programming: Leveraged Java 8 features like Streams, Lambda expressions, and Optional to write clean, efficient code.
-•	API Documentation & Integration: Created API documentation using Swagger and tested integrations with Postman for seamless front-end collaboration.
-•	AWS Security Best Practices: Configured IAM roles, VPCs, and security groups to enforce secure access control across cloud environments.
+Experienced Full Stack Developer with 7+ years of expertise in building scalable, cloud-native solutions for web and enterprise applications. Proficient in Java/JEE, Spring Boot, and Microservices Architecture, delivering high-performance backend systems with secure RESTful APIs. Skilled in developing modern front-end interfaces using Angular 11 and ReactJS, ensuring seamless user experiences.
+Extensive AWS Cloud expertise with hands-on experience in deploying solutions using EC2, S3, Lambda, RDS, and CloudFormation, optimizing scalability, security, and cost-efficiency. Adept at serverless architecture using AWS Lambda and API Gateway, reducing infrastructure overhead. Proficient in DevOps practices, automating CI/CD pipelines using Jenkins, GitLab CI/CD, and AWS CodePipeline to streamline deployments.
+Expert in containerization and orchestration with Docker and Kubernetes, managing clusters and creating Helm charts for efficient deployment. Strong focus on API security, implementing OAuth 2.0, JWT, and Spring Security to protect sensitive data. Skilled in real-time data processing using Apache Kafka and ActiveMQ, ensuring reliable communication between services.
+Passionate about delivering high-quality, scalable solutions, improving operational efficiency, and leading Agile teams with a focus on best practices in Java, DevOps, and cloud architecture.
 
 
 ### Education
@@ -27,8 +11,8 @@
  - Bachelors in Technology, Computer Science | Sathyabama Institute of Science & Technology, India
 
 ### Work Experience
-Java Fullstack developer @Hertz 
-- Developed and Deployed Secure REST APIs using Java and Spring Boot for handling patient data, appointment scheduling, and electronic health records (EHR), ensuring compliance with HIPAA regulations.
+Java Fullstack developer @Hertz
+ Developed and Deployed Secure REST APIs using Java and Spring Boot for handling patient data, appointment scheduling, and electronic health records (EHR), ensuring compliance with HIPAA regulations.
 •	Built and Managed AWS Cloud Infrastructure by deploying microservices on AWS ECS with Fargate, ensuring scalable, secure, and highly available services.
 •	Implemented Frontend Interfaces using Angular (or React) to create responsive, user-friendly dashboards for healthcare professionals and patients.
 •	Configured Authentication and Access Control using AWS Cognito and IAM Roles to manage secure user authentication and ensure data privacy.
@@ -41,7 +25,7 @@ Java Fullstack developer @Hertz
 •	Conducted Unit and Integration Testing using JUnit and Postman, ensuring high code quality and reliable API functionality.
 •	Collaborated with Cross-Functional Teams including DevOps, QA, and healthcare professionals to improve system performance, ensure compliance, and support post-deployment operations
 
-- Java Developer
+Java Developer @xxxxx
 •	Delivered core functionalities following Agile Scrum methodology, leveraging Test Driven Development (TDD) practices to produce high-quality, reliable code with minimal defects.
 •	Led the development of dynamic user interfaces using Spring MVC, JSP, JSTL, HTML5, CSS, JavaScript, jQuery, AJAX, and ReactJS, ensuring responsive web applications.
 •	Designed and developed reusable, modular components in React.js to enhance code scalability, maintainability, and performance across the project.
