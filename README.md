@@ -1,6 +1,5 @@
 # Java FullStack Developer
 
-#SUMMARY
 •	Over 7 years of experience in designing, developing, and deploying scalable web and enterprise applications using Java/JEE, Spring Boot, and AWS across various domains. Proficient in building cloud-native solutions and dynamic front-end interfaces with modern frameworks like Angular and ReactJS.
 •	Java Backend Development: Built scalable backend systems using Java, Spring Boot, and RESTful APIs, ensuring high performance and security.
 •	Front-End Development: Developed responsive UIs with Angular 11, ReactJS, and modern JavaScript frameworks, focusing on performance and usability.
