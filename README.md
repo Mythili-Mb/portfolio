@@ -17,6 +17,28 @@ Passionate about delivering high-quality, scalable solutions, improving operatio
 
 ---
 
+# Technical Skills
+
+| **Category**                | **Skills & Tools**                                                                                                   |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Methodologies**           | Software Development Life Cycle (SDLC), Agile, Waterfall, Scrum, TDD, BDD                                           |
+| **Programming Languages**   | C, C++, Java, JavaScript, Python, SQL                                                                                |
+| **Frontend Technologies**   | HTML5, CSS3, Bootstrap, JSP, AngularJS, NodeJS, ReactJS, Redux                                                       |
+| **Backend Technologies**    | Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security), Hibernate, J2EE, RESTful APIs, JMS, JDBC, Microservices Architecture |
+| **Messaging & Streaming**   | ActiveMQ, JMS, SQS, Apache Kafka                                                                                     |
+| **Database Technologies**   | MySQL, PostgreSQL, Oracle, DB2, MongoDB, DynamoDB                                                                    |
+| **Cloud Technologies**      | Amazon Web Services (AWS EC2, S3, SQS, Lambda, API Gateway, CloudFormation), Microsoft Azure, Google Cloud Platform (GCP) |
+| **Container & Orchestration, CI/CD** | Docker, Kubernetes, Helm, Jenkins, GitLab, AWS CodePipeline, AWS Fargate, AWS Cognito                        |
+| **Version Control Tools**   | Git, GitHub, SVN, Bitbucket/Stash                                                                                    |
+| **API Documentation & Testing** | JUnit, Mockito, Selenium, Postman, JMeter                                                                        |
+| **Security & Authentication** | OAuth 2.0, JSON Web Tokens (JWT)                                                                                   |
+| **Development Tools & IDEs** | IntelliJ IDEA, Eclipse, Visual Studio Code, Spring Tool Suite (STS), PyCharm, Anaconda                             |
+| **Design Patterns & Architectural Styles** | MVC, Microservices, Serverless Architecture, Reactive Programming                                    |
+| **Web Services**            | RESTful APIs, SOAP, API Gateway, Swagger, GraphQL                                                                    |
+| **Other**                   | XML, JSON, Design Patterns, Linux/Unix                                                                               |
+
+---
+
 ## Work Experience
 
 ### Java Fullstack Developer @ Hertz
