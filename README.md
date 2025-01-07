@@ -108,7 +108,7 @@ With over 7 years of experience in developing scalable, cloud-native solutions u
 
 ## Education
 - **Master’s in computer science**,University of Dayton, USA
-- **Bachelor’s in computer science, Sathyabama University, India
+- **Bachelor’s in computer science**, Sathyabama University, India
 
 ---
 
